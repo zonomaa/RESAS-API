@@ -8,3 +8,16 @@
 - Highcharts
 - Webpack
 - RESAS-API
+
+# 起動方法
+
+```
+$ npm install
+$ npm start
+```
+
+# ビルド
+
+```
+$ npm run build
+```
