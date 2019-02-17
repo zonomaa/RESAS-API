@@ -1,0 +1,25 @@
+section {
+  margin: 1rem;
+  border: 1px solid #eee; }
+  section .header {
+    background: #eee;
+    text-align: center;
+    padding: .5rem; }
+  section main {
+    padding: 0 1rem; }
+.pref-component {
+  padding: 1rem;
+}
+.pref-component .pref-label {
+    float: left;
+    padding: .5rem .7rem;
+    margin: .2rem;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    background: #fdfdfd;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
