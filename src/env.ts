@@ -1,1 +1,0 @@
-export const APIKEY: string = 'Fh9WntBGNo3OGasnkrhii7lZmeCZDyZfbZ2hmBQ2';
